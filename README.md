@@ -1,2 +1,2 @@
 # finn_model
-Public deployment for DBS model
+For public deployment of DBS model
